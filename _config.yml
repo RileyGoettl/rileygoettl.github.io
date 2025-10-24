@@ -1,0 +1,7 @@
+title: "Riley Goettl | Cybersecurity Journey"
+description: "Labs, writeups, scripts and notes on my path to learning more about Cybersecurity."
+baseurl: ""
+url: "https://rileygoettl.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
